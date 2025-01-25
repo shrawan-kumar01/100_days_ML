@@ -1,0 +1,1 @@
+df = pd.read_csv(r"C:\Users\Dell\Desktop\pythonDevelopment\data-set\Titanic-Dataset.csv", usecols=['Age' , 'Fare' , 'Survived'])
